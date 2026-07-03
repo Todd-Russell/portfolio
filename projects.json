@@ -81,7 +81,10 @@
     "title": "NIR Characterization Jig",
     "year": "2026",
     "image": "assets/nir-jig-assembled.jpg",
-    "metric": null,
+    "metric": {
+      "value": "+350%",
+      "label": "scannable area"
+    },
     "summary": "Scoped, designed, and delivered a custom near-infrared analysis fixture, from requirements to assembled tool.",
     "tags": [
       "SolidWorks",
@@ -91,7 +94,7 @@
     "par": {
       "problem": "Characterization work needed a repeatable NIR fixture with no off-the-shelf option available.",
       "action": "Gathered requirements with stakeholders, pitched two concepts, modeled the selected design in SolidWorks, then 3D printed and assembled it.",
-      "result": "Jig assembled and installed in the lab, enabling repeatable NIR characterization of solar cells."
+      "result": "Jig assembled and installed in the lab, increasing the scannable area by 350% and enabling repeatable NIR characterization of solar cells."
     }
   },
   {
