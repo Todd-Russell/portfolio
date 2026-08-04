@@ -490,5 +490,26 @@
       "action": "Modeled the design in SolidWorks, then built, stained, and applied a protective finish.",
       "result": "Used the table throughout the rest of my undergraduate program."
     }
+  },
+  {
+    "id": "dual-ink-vial-holder",
+    "category": "Work",
+    "featured": false,
+    "company": "CubicPV Inc.",
+    "title": "Dual Ink Vial Holder for Slot-Die Coating",
+    "year": "2026",
+    "image": "assets/dual-ink-vial-holder.jpg",
+    "metric": null,
+    "summary": "Designed a dual-vial holder that lets the slot-die coating process pump from two vials at once while keeping waste solvent separate from the ink source.",
+    "tags": [
+      "SolidWorks",
+      "Machining",
+      "Mechanical Design"
+    ],
+    "par": {
+      "problem": "The slot-die coating (SDC) process needed to pump from two vials simultaneously while keeping waste dimethylformamide (DMF) solvent isolated from the perovskite ink source to avoid a contamination and safety risk.",
+      "action": "Designed the holder to scientist specifications and made a component-level build-vs-buy decision: machined the non-standard-thread caps in-house and procured the remaining parts from an outside machine shop for tighter tolerances and a PTFE-impregnated anodized finish that resists the process chemical baths.",
+      "result": "Delivered an operator-ready fixture, tested and handed off to the coating team, that enables simultaneous two-vial pumping, removes a cross-contamination safety risk, and preserves ink purity."
+    }
   }
 ]
